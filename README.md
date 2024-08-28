@@ -1,18 +1,18 @@
 # Poetry-Haven_Landing-page
-<p>I Develop Poetry Haven Landing Page</p><br>
+<p>I Develope Poetry Haven Landing Page</p>
 <h3>Design elements are:</h3>
 <ul>
-•	Log In button
-•	Create Account button
-•	Search Poet feature
-•	Subscribe Now button
-•	A self-designed company logo
+<li>Log In button</li>
+<li>Create Account button</li>
+<li>Search Poet feature</li>
+<li>Subscribe Now button</li>
+<li>A self-designed company logo</li>
 </ul>
 
-<p>Technology used:</p>
+<h3>Technology used:</h3>
 <ul>
-•	Html
-•	Css
+<li>HTML</li>
+<li>CSS</li>
 </ul>
 
 Landing Page:
