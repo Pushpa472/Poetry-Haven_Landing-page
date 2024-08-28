@@ -16,4 +16,5 @@
 </ul>
 
 Landing Page:
-![Poetry landing page](https://github.com/user-attachments/assets/2f799f29-8b6b-4d3a-b872-0c29030a3530)
+![Landing_page](https://github.com/user-attachments/assets/67b23550-f95a-406a-939c-c12fb8bb4b34)
+
